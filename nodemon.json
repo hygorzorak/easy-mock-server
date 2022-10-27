@@ -1,0 +1,6 @@
+{
+  "watch": ["src", "../remotes"],
+  "ext": "*/**.{ts,json}",
+  "ignore": [],
+  "exec": "ts-node ./src/index.ts"
+}
